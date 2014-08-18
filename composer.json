@@ -1,0 +1,19 @@
+{
+    "name": "larasoft/ordering",
+    "description": "Laravel 4 library for ordering",
+    "authors": [
+        {
+            "name": "Rok Grabnar",
+            "email": "grabnarrok@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Larasoft\\Ordering\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
